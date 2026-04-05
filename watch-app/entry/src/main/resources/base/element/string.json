@@ -1,0 +1,13 @@
+{
+  "string": [
+    { "name": "app_name", "value": "PetalGemini" },
+    { "name": "listening", "value": "Escuchando..." },
+    { "name": "processing", "value": "Pensando..." },
+    { "name": "no_connection", "value": "Sin conexión al teléfono" },
+    { "name": "tap_to_speak", "value": "Toca para hablar" },
+    { "name": "error_generic", "value": "Intenta de nuevo" },
+    { "name": "history_title", "value": "Historial" },
+    { "name": "clear_history", "value": "Borrar todo" },
+    { "name": "settings_title", "value": "Ajustes" }
+  ]
+}
